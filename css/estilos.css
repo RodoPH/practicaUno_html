@@ -1,0 +1,25 @@
+body {
+  background: #F0A800;
+  margin: 20px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+#imgTec {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=estilos.css.map */
